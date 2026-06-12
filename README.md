@@ -2,6 +2,16 @@
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
+# Leetcode:
+## Stack
+| LeetCode Number | Problem Name | Difficulty |
+| :---: | :--- | :--- |
+| #20 | Valid Parentheses | Easy |
+| #155 | Min Stack | Medium |
+| #150 | Evaluate Reverse Polish Notation | Medium |
+| #739 | Daily Temperatures | Medium |
+| #853 | Car Fleet | Medium |
+| #84 | Largest Rectangle in Histogram | Hard |
 ---
 
 ## What is this?
